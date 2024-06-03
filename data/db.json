@@ -1,0 +1,88 @@
+{
+  "autor": [
+    {
+      "id": 1,
+      "nome": "Paná Tsilfidis"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product": "Game Boy Classic",
+      "price": "60,00",
+      "image": "./images/Gameboy.png"
+    },
+    {
+      "id": 2,
+      "product": "StormTrooper",
+      "price": "60,00",
+      "image": "./images/StormTrooper.png"
+    },
+    {
+      "product": "Dart Vader",
+      "price": "35,00",
+      "image": "./images/DartVader.jpg",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "product": "Luke Skywalker",
+      "price": "60,00",
+      "image": "./images/LukeSkywalker.png"
+    },
+    {
+      "id": 5,
+      "product": "Game Boy Classic",
+      "price": "60,00",
+      "image": "./images/Gameboy.png"
+    },
+    {
+      "id": 6,
+      "product": "StormTrooper",
+      "price": "60,00",
+      "image": "./images/StormTrooper.png"
+    },
+    {
+      "id": 7,
+      "product": "Dart Vader",
+      "price": "35,00",
+      "image": "https://m.media-amazon.com/images/I/71FqBG8Ur9L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 8,
+      "product": "Luke Skywalker",
+      "price": "60,00",
+      "image": "./images/LukeSkywalker.png"
+    },
+    {
+      "id": 9,
+      "product": "Game Boy Classic",
+      "price": "60,00",
+      "image": "./images/Gameboy.png"
+    },
+    {
+      "id": 10,
+      "product": "StormTrooper",
+      "price": "60,00",
+      "image": "./images/StormTrooper.png"
+    },
+    {
+      "id": 11,
+      "product": "Dart Vader",
+      "price": "35,00",
+      "image": "./images/DartVader.jpg"
+    },
+    {
+      "id": 12,
+      "product": "Luke Skywalker",
+      "price": "60,00",
+      "image": "./images/LukeSkywalker.png"
+    },
+    {
+      "product": "Obi-Wan Kenobi",
+      "price": "67,00",
+      "image": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-obi-wan-kenobi-538-obi-wan-kenobi-star-wars-disney-plus-73262/259749.jpg",
+      "id": 13
+    }
+  ]
+}
