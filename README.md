@@ -11,6 +11,17 @@
 
 ## Screenshots
 
+![image](https://github.com/tsilfidis/challenge_alurageek-t6-one/assets/105652220/f0e507b1-61f9-40c0-84a6-c9d798ccb78b)
+
+![image](https://github.com/tsilfidis/challenge_alurageek-t6-one/assets/105652220/e9df2a2a-03d1-4539-8711-532cebd8a4d1)
+
+![image](https://github.com/tsilfidis/challenge_alurageek-t6-one/assets/105652220/9b8780d8-9cba-4773-b846-da5562b2e033)
+
+![image](https://github.com/tsilfidis/challenge_alurageek-t6-one/assets/105652220/1bde26d2-4fbe-4155-8ebc-e0a5e28b606d)
+
+![image](https://github.com/tsilfidis/challenge_alurageek-t6-one/assets/105652220/819c5619-c883-413c-aca0-74ecd8aa9840)
+
+
 
 
 
